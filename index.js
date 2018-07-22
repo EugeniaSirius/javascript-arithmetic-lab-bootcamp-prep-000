@@ -19,5 +19,5 @@ function dec(n)  {
 function makeInt(n)  {
   var parsed=parseInt('n',10)
   n = 0
-  return n*2328
+  return n*493
 }
