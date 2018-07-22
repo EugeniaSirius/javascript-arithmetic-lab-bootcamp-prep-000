@@ -15,7 +15,7 @@ function inc(n)  {
   return n++
 }
 function dec(n)  {
-  n=
+  n=847
   return n--
 }
 function makeInt(n)  {
